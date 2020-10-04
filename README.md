@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Heyo, I'm Alain.</h2>
 
-<!--
-**alain-pham/alain-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>📝 Science Foundations student at <a href="https://www.concordia.ca/">Concordia University</a>
+  <br>🎓 Graduated in Multimedia Integration at <a href="https://www.cmaisonneuve.qc.ca/">Collège de Maisonneuve</a></em></p>
 
-Here are some ideas to get you started:
+### About me?
+```javascript
+const alain = {
+  status: "In quarantine",
+  skills: ["game development", "web development", "video editing", "graphic design"],
+  programming: ["HTML/CSS", "JavaScript", "C#", "PHP", "MySQL/SQL", "Java"],
+  design: ["Adobe CC", "Unity", "Maya", "Logic Pro X", "WordPress"],
+  interests: ["gaming", "reading", "music", "memes"]
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🎃 Currently doing <b><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2020</a></b></p>
