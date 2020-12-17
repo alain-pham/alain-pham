@@ -14,4 +14,4 @@ const alain = {
 };
 ```
 
-<p>🎃 Currently doing <b><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2020</a></b></p>
+<p>🏙 Currently no-lifing Cyberpunk 2077 
