@@ -1,17 +1,17 @@
-<h2>Heyo, I'm Alain.</h2>
+<h2>Hey, moi c'est Alain.</h2>
 
-<p><em>📝 Science Foundations student at <a href="https://www.concordia.ca/">Concordia University</a>
-  <br>🎓 Graduated in Multimedia Integration at <a href="https://www.cmaisonneuve.qc.ca/">Collège de Maisonneuve</a></em></p>
+<p><em>📝 Étudiant en création de jeux vidéo - concentration intégration logicielle à l'<a href="https://www.uqat.ca/">UQAT</a>
+  <br>🎓 DEC en Techniques d'intégration multimédia au <a href="https://www.cmaisonneuve.qc.ca/">Collège de Maisonneuve</a></em></p>
 
-### About me?
+### Moi?
 ```javascript
 const alain = {
-  status: "In quarantine",
-  skills: ["game development", "web development", "video editing", "graphic design"],
-  programming: ["HTML/CSS", "JavaScript", "C#", "PHP", "MySQL/SQL", "Java"],
-  design: ["Adobe CC", "Unity", "Maya", "Logic Pro X", "WordPress"],
-  interests: ["gaming", "reading", "music", "memes"]
+  status: "En quarantaine",
+  compétences: ["développement de jeux vidéo", "développement web", "montage vidéo", "design graphique"],
+  programmation: ["HTML/CSS", "JavaScript", "C#", "PHP", "MySQL/SQL", "Java"],
+  design: ["Adobe CC", "Unity", "Maya", "Logic Pro X", "WordPress", "3ds Max"],
+  intérêts: ["gaming", "livres", "guitare", "TV series"]
 };
 ```
 
-<p>🏙 Currently no-lifing <b><a href="https://www.youtube.com/watch?v=CqEMEjJj4hs">Cyberpunk 2077</a></b></p>
+<p>🐦<b><a href="https://www.youtube.com/watch?v=kUJw2eVYznw">wuewuewuewuewue</a></b></p>
